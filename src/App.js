@@ -1,8 +1,9 @@
+import Countries from "./components/Countries/Countries"
 
 const App = () => {
   return (
     <>
-      <h2>It's working</h2>
+      <Countries />
     </>
   );
 }
